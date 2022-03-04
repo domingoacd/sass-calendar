@@ -1,0 +1,20 @@
+{
+  "name": "sass-calendar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "./src/stylesheets/index.scss ./public/css/index.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/domingoacd/sass-calendar.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/domingoacd/sass-calendar/issues"
+  },
+  "homepage": "https://github.com/domingoacd/sass-calendar#readme"
+}
