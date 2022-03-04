@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "sass": "./src/stylesheets/index.scss ./public/css/index.css --watch"
+    "sass": "./src/stylesheets/index.scss ./public/css/index.css --watch",
+    "start": "http-server -a localhost -p 3000"
   },
   "repository": {
     "type": "git",
@@ -16,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/domingoacd/sass-calendar/issues"
   },
-  "homepage": "https://github.com/domingoacd/sass-calendar#readme"
+  "homepage": "https://github.com/domingoacd/sass-calendar#readme",
+  "devDependencies": {
+    "http-server": "^14.1.0"
+  }
 }
