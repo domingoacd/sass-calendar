@@ -20,6 +20,8 @@
   "homepage": "https://github.com/domingoacd/sass-calendar#readme",
   "devDependencies": {
     "http-server": "^14.1.0",
-    "sass": "^1.49.9"
+    "sass": "^1.49.9",
+    "stylelint": "^14.5.3",
+    "stylelint-config-standard": "^25.0.0"
   }
 }
